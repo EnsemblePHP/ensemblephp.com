@@ -5,10 +5,16 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"laravel/framework": "~5.0"
+		"laravel/framework": "~5.0",
+		"illuminate/html": "@dev",
+		"filp/whoops": "~1.0",
+		"watson/validating": "0.10.*",
+		"cviebrock/eloquent-sluggable": "~2.0.4"
 	},
 	"require-dev": {
-		"phpunit/phpunit": "~4.0"
+		"phpunit/phpunit": "~4.0",
+		"way/generators": "~3.0",
+		"barryvdh/laravel-debugbar": "~1.8.0"
 	},
 	"autoload": {
 		"classmap": [
