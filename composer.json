@@ -8,8 +8,7 @@
 		"laravel/framework": "~5.0",
 		"illuminate/html": "@dev",
 		"filp/whoops": "~1.0",
-		"watson/validating": "0.10.*",
-		"cviebrock/eloquent-sluggable": "~2.0.4"
+		"watson/validating": "0.10.*"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.3",
